@@ -1,0 +1,12 @@
+.highlight {
+  color: #1e2125;
+  background-color: #f8f9fa;
+}
+
+.outclick-div {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
