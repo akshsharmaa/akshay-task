@@ -20,7 +20,7 @@ class AutoCompleteInputBox extends React.Component {
 
     // Creating the ref to input for the focus
     this.inputBoxRef = React.createRef();
-    this.debouncedInputChange = debounce(this.getDataFromServer, 200);
+    this.debouncedInputChange = debounce(this.getDataFromServer, 400);
   }
 
   getDataFromServer = async textToSearch => {
