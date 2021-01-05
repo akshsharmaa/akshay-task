@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/akshay-task/static/css/main.e61692c4.chunk.css",
-    "main.js": "/akshay-task/static/js/main.ca54d4f2.chunk.js",
-    "main.js.map": "/akshay-task/static/js/main.ca54d4f2.chunk.js.map",
+    "main.js": "/akshay-task/static/js/main.0fee0bd9.chunk.js",
+    "main.js.map": "/akshay-task/static/js/main.0fee0bd9.chunk.js.map",
     "runtime-main.js": "/akshay-task/static/js/runtime-main.56d1158f.js",
     "runtime-main.js.map": "/akshay-task/static/js/runtime-main.56d1158f.js.map",
     "static/js/2.31fce633.chunk.js": "/akshay-task/static/js/2.31fce633.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.56d1158f.js",
     "static/js/2.31fce633.chunk.js",
     "static/css/main.e61692c4.chunk.css",
-    "static/js/main.ca54d4f2.chunk.js"
+    "static/js/main.0fee0bd9.chunk.js"
   ]
 }
